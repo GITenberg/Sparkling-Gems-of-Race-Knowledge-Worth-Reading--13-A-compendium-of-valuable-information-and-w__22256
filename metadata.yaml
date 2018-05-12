@@ -1,0 +1,27 @@
+_repo: Sparkling-Gems-of-Race-Knowledge-Worth-Reading--13-A-compendium-of-valuable-information-and-w__22256
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Haley, James T.
+    gutenberg_agent_id: '36466'
+    url: http://www.gutenberg.org/2009/agents/36466
+description: ''
+gutenberg_issued: '2007-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22256'
+  lccn: '12004235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans'
+title: "Sparkling Gems of Race Knowledge Worth Reading\r\nA compendium of valuable\
+  \ information and wise suggestions that will inspire noble effort at the hands of\
+  \ every race-loving man, woman, and child."
+url: http://www.gutenberg.org/ebooks/22256
